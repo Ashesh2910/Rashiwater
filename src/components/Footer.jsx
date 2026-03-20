@@ -73,7 +73,7 @@ const Footer = () => (
                     </h4>
                     {[
                         { icon: '✉', text: 'contact@rashi.com' },
-                        { icon: '✆', text: '+91 98765 43210' },
+                        { icon: '✆', text: '+91-9993174081' },
                         { icon: '📍', text: 'New Delhi, India' },
                     ].map((c) => (
                         <p key={c.text} style={{ fontFamily: 'Inter, sans-serif', fontSize: '13px', color: '#5b4e78', marginBottom: '10px', display: 'flex', gap: '8px', alignItems: 'flex-start' }}>

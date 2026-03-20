@@ -34,7 +34,7 @@ const Navbar = () => {
             }}>
                 <div style={{ display: 'flex', gap: '24px' }}>
                     <span style={{ cursor: 'pointer', transition: 'color 0.2s' }} onMouseEnter={e => e.target.style.color = '#c4b5fd'} onMouseLeave={e => e.target.style.color = '#5b4e78'}>✉ contact@rashi.com</span>
-                    <span style={{ cursor: 'pointer', transition: 'color 0.2s' }} onMouseEnter={e => e.target.style.color = '#c4b5fd'} onMouseLeave={e => e.target.style.color = '#5b4e78'}>✆ +91 98765 43210</span>
+                    <span style={{ cursor: 'pointer', transition: 'color 0.2s' }} onMouseEnter={e => e.target.style.color = '#c4b5fd'} onMouseLeave={e => e.target.style.color = '#5b4e78'}>✆ +91-9993174081</span>
                 </div>
                 <div style={{ display: 'flex', gap: '4px' }}>
                     {['FAQ', 'Privacy', 'Terms'].map(l => (

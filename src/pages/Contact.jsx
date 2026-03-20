@@ -69,7 +69,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <h3 style={{ fontFamily: 'Inter', fontSize: '16px', color: '#fff', margin: '0 0 8px 0' }}>Phone</h3>
-                                    <p style={{ fontFamily: 'Inter', fontSize: '14px', color: '#8070a8', margin: 0 }}>+91 98765 43210</p>
+                                    <p style={{ fontFamily: 'Inter', fontSize: '14px', color: '#8070a8', margin: 0 }}>+91-9993174081</p>
                                 </div>
                             </div>
 
