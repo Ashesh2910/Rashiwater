@@ -1,0 +1,44 @@
+
+/* 
+ * Overrides for OrderButton in specific contexts 
+ * Added for ProductDetails.jsx and CartDrawer.jsx
+ */
+
+/* Product Details Page */
+.product-order-btn {
+    width: 100% !important;
+    height: 50px !important;
+    background: linear-gradient(135deg, #c43399, #9d1773) !important;
+    border-radius: 999px !important;
+    color: #fff !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+}
+
+.product-order-btn:hover {
+    box-shadow: 0 0 30px rgba(196,51,153,0.4) !important;
+}
+
+.product-order-btn.animate {
+  background: var(--dark) !important;
+}
+
+/* Cart Drawer */
+.cart-checkout-btn {
+    width: 100% !important;
+    height: 52px !important;
+    background: linear-gradient(135deg, #c43399, #9d1773) !important;
+    border-radius: 6px !important;
+    color: #fff !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.05em !important;
+}
+
+.cart-checkout-btn:hover {
+    box-shadow: 0 0 20px rgba(196,51,153,0.4) !important;
+}
+
+.cart-checkout-btn.animate {
+  background: var(--dark) !important;
+}
